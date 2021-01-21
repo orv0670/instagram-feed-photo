@@ -1,0 +1,10 @@
+body{background-color: #BDBDBD; margin: 0;}
+div.contenedor{background-color: white; width: 600px; margin: auto; text-align: center;}
+div.post{background-color: white;}
+div.post-header{background-color: white; display: inline-block; text-align: left; /*padding: 10px;*/ box-sizing: border-box; width:100%; /*height: 70px;*/}
+div.post-header div{float: left;}
+div.post-header span{float: right; display: block; /*margin-top: 10px;*/ padding: 15px;}
+div.post h2, div.post p{margin: 0; padding: 10px;}
+div.post img{width: 100%;}
+header{ background-color: white; padding: 10px; margin: 0;}
+header h1{margin: 0;}
